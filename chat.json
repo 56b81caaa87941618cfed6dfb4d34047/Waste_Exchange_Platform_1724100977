@@ -30,5 +30,17 @@
             "div_id": "",
             "div_action": ""
         }
+    },
+    {
+        "id": "guest11112024163010",
+        "timestamp": "2024-11-11T16:30:16.475461Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific area of the app would you like the picture of the pile of trash to be added to?\", \"option1\": \"Homepage\", \"option2\": \"Product listing page\"}, {\"question 2\": \"Do you have a specific style or type of image in mind for the pile of trash, such as realistic or cartoonish?\", \"option1\": \"Realistic\", \"option2\": \"Cartoonish\"}], \"input_token_count\": 269, \"output_token_count\": 99, \"time_taken\": \"0:00:01.592392\"}",
+        "metadata": {
+            "component_id": "purple_background_cta_component_1724100979",
+            "div_id": "",
+            "div_action": ""
+        }
     }
 ]
