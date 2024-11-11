@@ -1,10 +1,10 @@
 [
     {
-        "role": "makeinfinite",
+        "id": "project_init",
+        "timestamp": "2024-08-19T20:56:19",
+        "role": "assistant",
+        "source": "base_assistant",
         "content": "Can you describe the project a bit more?",
-        "message_id": "project_init",
-        "timestamp": "1724100979",
-        "component_file_name": "",
-        "div_id": ""
+        "metadata": {}
     }
 ]
