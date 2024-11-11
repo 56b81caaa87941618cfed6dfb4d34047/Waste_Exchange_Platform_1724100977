@@ -66,5 +66,17 @@
             "div_id": "",
             "div_action": ""
         }
+    },
+    {
+        "id": "guest11112024163426",
+        "timestamp": "2024-11-11T16:34:28.026628Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "Okay, I will add a picture of a pile of trash.",
+        "metadata": {
+            "component_id": "",
+            "div_id": "",
+            "div_action": ""
+        }
     }
 ]
