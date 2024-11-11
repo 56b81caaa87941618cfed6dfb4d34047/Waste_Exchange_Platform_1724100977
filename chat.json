@@ -78,5 +78,17 @@
             "div_id": "",
             "div_action": ""
         }
+    },
+    {
+        "id": "guest11112024163426",
+        "timestamp": "2024-11-11T16:34:31.793468Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the picture of the pile of trash to be placed in the app?\", \"option1\": \"On the homepage\", \"option2\": \"In the listing details page\"}, {\"question 2\": \"What size do you envision for the picture of the pile of trash?\", \"option1\": \"A small icon size\", \"option2\": \"A large full-width image\"}], \"input_token_count\": 269, \"output_token_count\": 93, \"time_taken\": \"0:00:01.397153\"}",
+        "metadata": {
+            "component_id": "purple_background_cta_component_1724100979",
+            "div_id": "",
+            "div_action": ""
+        }
     }
 ]
